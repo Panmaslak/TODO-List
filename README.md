@@ -1,6 +1,6 @@
 # TODO-List
 
-Program pozwalający zarządzenie listą zadań.
+Program pozwalający na zarządzenie listą zadań.
 
 Demo: http://piotrz.epizy.com/todo/index.php
 

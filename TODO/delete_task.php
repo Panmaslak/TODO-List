@@ -57,7 +57,7 @@ if ($conn->query($sql) === TRUE) {
     <body>
     <div class="container mt-5">
         <div class="alert alert-danger" role="alert">
-            Błąd podczas usuwania użytkownika: <br><?php echo $conn->error; ?>
+            Błąd podczas usuwania zadania: <br><?php echo $conn->error; ?>
             
         </div>
          <a href="/todo/index.php" class="link">Powrót</a>
